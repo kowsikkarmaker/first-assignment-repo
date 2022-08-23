@@ -84,11 +84,13 @@ border-radius: 10px;
 .third-part{
     width: 65%;
     margin: auto;
+    margin-top: 50px;
 }
 .thitd-write h1{
     text-align: center;
     font-size: 40px;
-    font-family: 'Lato', sans-serif;    
+    font-family: 'Lato', sans-serif; 
+    margin: 0 0 10px 0;   
 }
 .thitd-write p{
     width: 500px;
@@ -125,9 +127,68 @@ border-radius: 10px;
 }
 
 
-/************************Forth part**************************/
+/************************Foruth part**************************/
+.fourth-area{
+    margin-top: 50px;
+}
 
 
+.fourth-write h1{
+    text-align: center;
+    font-size: 40px;
+    font-family: 'Lato', sans-serif;
+    margin: 0 0 10px 0;
+}
+.fourth-write p{
+    width: 500px;
+    margin: auto;
+    text-align: center;
+}
+.fourth-input{
+    margin: auto;
+    width: 40%;
+    text-align: center;
+    margin-top: 50px;
+    background-color: rgb(241, 233, 188);
+    padding: 50px;
+    border-radius: 10px;
+    
+}
+.fourth-input input{
+    width: 250px;
+    padding: 7px 5px;
+    border: none;
+    border-radius: 5px 0 0 5px;
+}
+.fourth-input button{
+    padding: 7px 10px;
+    margin-left: -4px;
+    border: none;
+    background-color: tomato;
+    border-radius: 0 5px 5px 0;
+}
+
+/***********************fiveth-area************************/
+.fiveth-area{
+    display: flex;
+    margin-top: 80px;
+}
+.fiveth-write{
+    width: 50%;
+}
+.fiveth-write h1{
+    font-size: 25px;
+    font-family: 'Lato', sans-serif;
+}
+.fiveth-write p{
+    width: 350px;
+}
+.fiveth-img{
+    width: 30%;
+}
+.fiveth-area img{
+    width: 100%;
+}
 /********************footer-area*******************/
 .footer-area{
     background-color: rgb(5, 5, 41);
