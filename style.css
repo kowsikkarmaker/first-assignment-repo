@@ -1,0 +1,126 @@
+.first-area{
+    width: 80%;
+    height: 500px;
+    background-image: url(images/image-267270.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    margin: auto;
+}
+.first-write{
+    text-align: center;
+    padding-top: 210px;
+}
+.first-write h1{
+    width: 550px;
+    font-size: 45px;
+    margin: auto;
+    font-family: 'Lato', sans-serif;
+    color: rgb(239, 244, 248);
+}
+.first-write p{
+    width: 350px;
+    margin: auto;
+    color: black;
+    margin-top: 20px;
+}
+.first-write button{
+    margin-top: 20px;
+    padding: 10px 15px;
+    background-color: tomato;
+    border-radius: 10px;
+}
+
+
+/*********************second part*******************/
+
+.second-area{
+    width: 40%;
+    margin: auto;
+    margin-top: 50px;
+}
+.second-write h1{
+    text-align: center;
+    font-family: 'Lato', sans-serif;
+    font-size: 40px;
+    margin: 0 0 10px 0;
+}
+.second-write p{
+    width:350px;
+    text-align: center;
+    margin: auto;
+}
+
+#money-option{
+display: flex;
+justify-content: center;
+
+}
+#money-option h3{
+    background-color: aliceblue;
+    padding: 35px 15px;
+    font-size: 20px;
+    font-family: 'Lato', sans-serif;
+    margin-right: 10px;
+    border-radius: 10px;
+}
+.second-input{
+text-align: center;
+
+}
+.second-input input{
+    border: none;
+    text-align: center;
+    margin-top: 40px;
+}
+.second-input button{
+padding: 10px 15px;
+background-color: tomato;
+border: none;
+border-radius: 10px;
+}
+
+/********************Third part********************/
+.third-part{
+    width: 65%;
+    margin: auto;
+}
+.thitd-write h1{
+    text-align: center;
+    font-size: 40px;
+    font-family: 'Lato', sans-serif;    
+}
+.thitd-write p{
+    width: 500px;
+    margin: auto;
+    text-align: center;
+}
+.blogs{
+    
+    display: flex;
+    justify-content: space-evenly
+}
+.blog{
+    width:220px;
+    margin-top: 35px;
+    
+}
+.blog{
+    padding: 30px 0 10px 20px;
+    border-radius: 10px;
+
+}
+.blog p{
+    width: 220px;
+}
+.blog1{
+    background-color: rgb(247, 179, 167);
+    
+}
+.blog2{
+    background-color: rgb(182, 224, 243);
+}
+.blog3{
+    background-color: rgb(221, 200, 245);
+}
+
